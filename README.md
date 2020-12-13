@@ -13,7 +13,9 @@ Muhammad Iqbal Humam     05111840000103
 
 **CIDR**
 
-1. Pertama bagi CIDR berdasarkan terjauh dan menghasilkan netmask paling kecil
+1.  Sebelum membuat UML maka perlu dibagi dulu IPnya
+   
+    a. Pertama bagi CIDR berdasarkan terjauh dan menghasilkan netmask paling kecil
     
     Subnet A		
     |   Subnet      |   Jumlah IP   |    Netmask    |
@@ -76,3 +78,5 @@ Muhammad Iqbal Humam     05111840000103
     b. Setelah dibagi maka bisa dibuat treenya dibawah
     
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/CIDR_Three.png)
+
+2.  Setelah dibagi IPnya maka dapat dibuat topologi seperti berikut
