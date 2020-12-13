@@ -17,12 +17,12 @@ Muhammad Iqbal Humam     05111840000103
 
     a. Bagi CIDR berdasarkan terjauh seperti dibawah
     
-        Subnet A		
-        |   Subnet      |   Jumlah IP   |    Netmask    |
-        | ------------- | ------------- | ------------- |
-        | A1  | 2 (Tidak Dipakai)  | /30  |
-        | A2  | 2 (Tidak Dipakai)  | /30  |
-     
+    Subnet A		
+    |   Subnet      |   Jumlah IP   |    Netmask    |
+    | ------------- | ------------- | ------------- |
+    | A1  | 2 (Tidak Dipakai)  | /30  |
+    | A2  | 2 (Tidak Dipakai)  | /30  |
+    | A3  | 721  | /22  |
     
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/CIDR.png)
     
