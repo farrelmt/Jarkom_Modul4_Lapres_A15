@@ -12,9 +12,10 @@ Muhammad Iqbal Humam     05111840000103
 ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/1.1.png)
 
 2. Hitung tiap ip yang dibutuhkan di tiap subnet
-
-A1 = 2
-A2 = 2
+| subnet | ip yang dibutuhkan |
+|--------|--------------------|
+|A1 | 2|
+|A2 | 2|
 
 A3 = 722 = /22 
 A4 = 253 = /24 
