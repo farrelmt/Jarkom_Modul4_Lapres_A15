@@ -13,9 +13,7 @@ Muhammad Iqbal Humam     05111840000103
 
 **CIDR**
 
-1. Membuat topologi jaringan sesuai soal
-
-    a. Bagi CIDR berdasarkan terjauh seperti dibawah
+1. Pertama bagi CIDR berdasarkan terjauh dan menghasilkan netmask paling kecil
     
     Subnet A		
     |   Subnet      |   Jumlah IP   |    Netmask    |
@@ -75,6 +73,6 @@ Muhammad Iqbal Humam     05111840000103
     
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/CIDR.png)
     
-    b. Dari gambar diatas maka dapat dibuat treenya seperti dibawah
+    b. Setelah dibagi maka bisa dibuat treenya dibawah
     
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/CIDR_Three.png)
