@@ -66,8 +66,9 @@ A15 = 1001 = /22
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/1.2.png)
     
 4. Pilih tree dan berikan ip-nya ke subnet
-A1 = 2
-A2 = 2
+|subnet| ip yang dibutuhkan|
+|A1 | 2
+|A2 | 2
 
 A3 = 722 = /22 → 192.168.36.0
 A4 = 253 = /24 → 192.168.33.0
