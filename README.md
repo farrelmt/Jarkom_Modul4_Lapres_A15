@@ -128,7 +128,8 @@ Muhammad Iqbal Humam     05111840000103
          xterm -T JOMBANG -e linux ubd0=JOMBANG,jarkom umid=JOMBANG eth0=daemon,,,switch22 mem=64M &
       ```
    
-   3. Setelah dibuat topologinya jalankan dan ubah network interfaces berdasarkan perhitungan diatas pada setiap UML
+3. Setelah dibuat topologinya jalankan dan ubah network interfaces berdasarkan perhitungan diatas pada setiap UML
       
-      a. SURABAYA
-         ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/int_surabaya.PNG)
+   a. SURABAYA
+   
+      ![fotooooo](https://github.com/farrelmt/Jarkom_Modul4_Lapres_A15/blob/main/img/int_surabaya.PNG)
